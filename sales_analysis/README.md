@@ -22,9 +22,8 @@ Identify the patterns that determine the success of the video game, which will a
   - determining whether the ESRB rating affects sales in a particular region
  - Hypothesis testing: 
    - 1:the average user ratings of the Xbox One and PC platforms are the same
-   - 2: average user ratings for Action and Sports genres are different
+   - 2:average user ratings for Action and Sports genres are different
 ## Libraries
-*pandas*
- 
+*pandas,matplotlib,scipy*
 
  
