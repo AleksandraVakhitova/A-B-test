@@ -4,9 +4,9 @@
 - a brief description of hypotheses, user coverage, impact on users and resource costs for hypothesis testing on a 10-point scale
 - on user purchases
 - on user visits
-## Цель 
+## Purpose 
 To prioritize hypotheses on increasing profits and to analyze the results of the A / B test
-## Задачи:
+## Objectives:
 - To apply ICE, RICE frameworks to hypotheses
 - To calculate indicators and create graphs:
    - cumulative indicators (revenue, average check) by groups
@@ -17,7 +17,7 @@ To prioritize hypotheses on increasing profits and to analyze the results of the
 - To calculate the 95th and 99th percentiles for orders per user and order value, select a boundary to detect anomalies
 - To calculate the statistically significant difference in the average number of orders per visitor and in the average order check between groups based on "raw" data
 - To calculate the statistically significant difference in the average number of orders per visitor and in the average check of the order between groups according to the "changed data" data
-## Используемые библиотеки
+## Libraries
 *pandas*
 *numpy*
 *matplotlib*
