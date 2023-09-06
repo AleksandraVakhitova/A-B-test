@@ -1,9 +1,9 @@
 # Business Decision Project
 ## Datasets
 ### The following information was available:
-- a brief description of hypotheses, user coverage, impact on users and resource costs for hypothesis testing on a 10-point scale
-- on user purchases
-- on user visits
+- a brief description of hypotheses, data on user coverage, impact on users and resource costs for hypothesis testing on a 10-point scale
+- data on user purchases
+- data on user visits
 ## Purpose 
 To prioritize hypotheses on increasing profits and to analyze the results of the A / B test
 ## Objectives:
