@@ -1,19 +1,19 @@
-# Анализ пользовательского поведения в мобильном приложении
-## Данные
-### В наличии были следующие данные:
-- о действиях пользователей (события)
+# Mobile App User Behavior Analysis
+## Datasets
+### The following information was available:
+- data on user actions (events)
 
-## Цель
-Проанализировать поведение пользователей мобильного приложения по продажам продуктов питания
-## Задачи:
-- Подготовить данные:преобразовать данные, обработать пропуски
-- Провести исследовательский анализ данных: 
-  - Выстроить воронку событий
-  - Изучить результаты эксперимента: провести статистические тесты между контрольными группами и между контрольными и экспериментальной периода   
-## Используемые библиотеки
+## Purpose:
+To analyze grocery shopping app users behaviour
+## Objectives:
+- To examine the data and conduct an initial analysis
+- To create a funnel for events, count the number of users at each stage, conduct an analysis of the funnel: 
+- T test hypotheses about the equality or difference of shares in the control groups, then we to do the same for control groups and experimental 
+## Libraries
 *pandas*
 *scipy*
- 
+*matplotlib*
+*plotly.express*
 
  
 
