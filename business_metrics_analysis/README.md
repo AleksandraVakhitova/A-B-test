@@ -1,17 +1,20 @@
 # Business metrics analysis
 ## Datasets
 ### The following information was available::
-- информацией о посещениях сайта
-- информация о заказах
-- информация о расходах на рекламу
+ -server log with data about users' visits 
+ -their purchases for this period 
+ -advertising expenses
 ## Цель
-Разобраться в причинах, почему компания Procrastinate Pro+ терпит убытки в течение последних нескольких месяцев, и помочь компании выйти в плюс
+To understand the reasons why Procrastinate Pro+ has been losing money over the past few months and help the company grow.
 ## Задачи:
-- Изучить,откуда приходят пользователи и какими устройствами они пользуются
-- Изучить,сколько стоит привлечение пользователей из различных рекламных каналов
-- Изучить,сколько денег приносит каждый клиент
-- Изучить,когда расходы на привлечение клиента окупаются
-- Изучить,какие факторы мешают привлечению клиентов
+-To study where users come from and what devices they use
+-To study how much it costs to attract users from various advertising channels
+-To study how much money each client brings
+-To study when the cost of customer acquisition pays off
+-To study what factors hindere customer acquisition
 ## Используемые библиотеки
 *pandas*
+*matplotlib*
+*seaborn*
+*numpy*
  
