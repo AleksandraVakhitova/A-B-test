@@ -4,7 +4,7 @@
 - a brief description of hypotheses, data on user coverage, impact on users and resource costs for hypothesis testing on a 10-point scale
 - data on user purchases
 - data on user visits
-## Purpose 
+## Purpose:
 To prioritize hypotheses on increasing profits and to analyze the results of the A / B test
 ## Objectives:
 - To apply ICE, RICE frameworks to hypotheses
