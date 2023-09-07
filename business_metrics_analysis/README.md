@@ -1,9 +1,9 @@
 # Business metrics analysis
 ## Datasets
 ### The following information was available: 
-   -server log with data about users' visits 
-   -their purchases for this period 
-   -advertising expenses
+- server log with data about users' visits 
+- their purchases for this period 
+- advertising expenses
 ## Цель
 To understand the reasons why Procrastinate Pro+ has been losing money over the past few months and help the company grow.
 ## Задачи:
