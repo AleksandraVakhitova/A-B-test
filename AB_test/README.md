@@ -18,6 +18,6 @@ To prioritize hypotheses on increasing profits and to analyze the results of the
 - To calculate the statistically significant difference in the average number of orders per visitor and in the average order check between groups based on "raw" data
 - To calculate the statistically significant difference in the average number of orders per visitor and in the average check of the order between groups according to the "changed data" data
 ## Libraries
-*pandas, numpy, matplotlib, scipy*
+*pandas,numpy,matplotlib,scipy*
 
  
