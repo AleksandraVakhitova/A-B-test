@@ -10,10 +10,7 @@ To analyze grocery shopping app users behaviour
 - To create a funnel for events, count the number of users at each stage, conduct an analysis of the funnel: 
 - To test hypotheses about the equality or difference of shares in the control groups, then we to do the same for control groups and experimental 
 ## Libraries
-*pandas*
-*scipy*
-*matplotlib*
-*plotly.express*
+*pandas, scipy, matplotlib, plotly.express*
 
  
 
